@@ -1,4 +1,0 @@
-var
-fig
-resss
-pop
